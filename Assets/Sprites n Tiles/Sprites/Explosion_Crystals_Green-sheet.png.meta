@@ -1,0 +1,2088 @@
+fileFormatVersion: 2
+guid: 1b5f7eeb7a29da241a2c3be962042e09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7170106667142204480
+    second: Explosion_Crystals_Green-sheet_0
+  - first:
+      213: 5892895542650969807
+    second: Explosion_Crystals_Green-sheet_1
+  - first:
+      213: 768808174839756838
+    second: Explosion_Crystals_Green-sheet_2
+  - first:
+      213: 1457921247836329684
+    second: Explosion_Crystals_Green-sheet_3
+  - first:
+      213: -8710316896008915756
+    second: Explosion_Crystals_Green-sheet_4
+  - first:
+      213: -6388041845283163239
+    second: Explosion_Crystals_Green-sheet_5
+  - first:
+      213: -4121717486645624755
+    second: Explosion_Crystals_Green-sheet_6
+  - first:
+      213: -268812944903784959
+    second: Explosion_Crystals_Green-sheet_7
+  - first:
+      213: -8830616451299669147
+    second: Explosion_Crystals_Green-sheet_8
+  - first:
+      213: -294694054469083051
+    second: Explosion_Crystals_Green-sheet_9
+  - first:
+      213: -6627031366110632781
+    second: Explosion_Crystals_Green-sheet_10
+  - first:
+      213: -264082339032641519
+    second: Explosion_Crystals_Green-sheet_11
+  - first:
+      213: 4086381845831694802
+    second: Explosion_Crystals_Green-sheet_12
+  - first:
+      213: 282387052827510130
+    second: Explosion_Crystals_Green-sheet_13
+  - first:
+      213: -3269781514985478083
+    second: Explosion_Crystals_Green-sheet_14
+  - first:
+      213: 6549998483441781791
+    second: Explosion_Crystals_Green-sheet_15
+  - first:
+      213: 1924545163437769080
+    second: Explosion_Crystals_Green-sheet_16
+  - first:
+      213: 5698342155042556827
+    second: Explosion_Crystals_Green-sheet_17
+  - first:
+      213: -3157871871044348996
+    second: Explosion_Crystals_Green-sheet_18
+  - first:
+      213: 7277195970237685518
+    second: Explosion_Crystals_Green-sheet_19
+  - first:
+      213: 3666816120820481759
+    second: Explosion_Crystals_Green-sheet_20
+  - first:
+      213: -2589363340552415969
+    second: Explosion_Crystals_Green-sheet_21
+  - first:
+      213: -5403767182180826066
+    second: Explosion_Crystals_Green-sheet_22
+  - first:
+      213: 1038511316184168517
+    second: Explosion_Crystals_Green-sheet_23
+  - first:
+      213: 5047667152453968638
+    second: Explosion_Crystals_Green-sheet_24
+  - first:
+      213: 7694559283115713100
+    second: Explosion_Crystals_Green-sheet_25
+  - first:
+      213: -1470259042289016129
+    second: Explosion_Crystals_Green-sheet_26
+  - first:
+      213: -6505140406262752013
+    second: Explosion_Crystals_Green-sheet_27
+  - first:
+      213: -8405017273110987298
+    second: Explosion_Crystals_Green-sheet_28
+  - first:
+      213: -8214629398179327957
+    second: Explosion_Crystals_Green-sheet_29
+  - first:
+      213: -6210307304660525065
+    second: Explosion_Crystals_Green-sheet_30
+  - first:
+      213: 2780560056168676887
+    second: Explosion_Crystals_Green-sheet_31
+  - first:
+      213: 769620223122879519
+    second: Explosion_Crystals_Green-sheet_32
+  - first:
+      213: -280814420733380986
+    second: Explosion_Crystals_Green-sheet_33
+  - first:
+      213: 225273689643109255
+    second: Explosion_Crystals_Green-sheet_34
+  - first:
+      213: -5922548585360093871
+    second: Explosion_Crystals_Green-sheet_35
+  - first:
+      213: -1395294529990903530
+    second: Explosion_Crystals_Green-sheet_36
+  - first:
+      213: -5971722224277259345
+    second: Explosion_Crystals_Green-sheet_37
+  - first:
+      213: -8519221791727502150
+    second: Explosion_Crystals_Green-sheet_38
+  - first:
+      213: -5605090006339633976
+    second: Explosion_Crystals_Green-sheet_39
+  - first:
+      213: 4276050108067425895
+    second: Explosion_Crystals_Green-sheet_40
+  - first:
+      213: -2872111554939946091
+    second: Explosion_Crystals_Green-sheet_41
+  - first:
+      213: -3534172867170788625
+    second: Explosion_Crystals_Green-sheet_42
+  - first:
+      213: -8078944761402050794
+    second: Explosion_Crystals_Green-sheet_43
+  - first:
+      213: -6433606522630103099
+    second: Explosion_Crystals_Green-sheet_44
+  - first:
+      213: -8752838013365858018
+    second: Explosion_Crystals_Green-sheet_45
+  - first:
+      213: -6672608947188813064
+    second: Explosion_Crystals_Green-sheet_46
+  - first:
+      213: 4828034996897509746
+    second: Explosion_Crystals_Green-sheet_47
+  - first:
+      213: 871485820243997448
+    second: Explosion_Crystals_Green-sheet_48
+  - first:
+      213: 6479458978483658713
+    second: Explosion_Crystals_Green-sheet_49
+  - first:
+      213: 975412464626400235
+    second: Explosion_Crystals_Green-sheet_50
+  - first:
+      213: 2571053587048894411
+    second: Explosion_Crystals_Green-sheet_51
+  - first:
+      213: 8554188976790374262
+    second: Explosion_Crystals_Green-sheet_52
+  - first:
+      213: -3063619819316118935
+    second: Explosion_Crystals_Green-sheet_53
+  - first:
+      213: 7740326870120728818
+    second: Explosion_Crystals_Green-sheet_54
+  - first:
+      213: -4377517378163296938
+    second: Explosion_Crystals_Green-sheet_55
+  - first:
+      213: 4215796671148168869
+    second: Explosion_Crystals_Green-sheet_56
+  - first:
+      213: 6844276688000602942
+    second: Explosion_Crystals_Green-sheet_57
+  - first:
+      213: -8784309035961248359
+    second: Explosion_Crystals_Green-sheet_58
+  - first:
+      213: 2677928136533255919
+    second: Explosion_Crystals_Green-sheet_59
+  - first:
+      213: -8095608606808810976
+    second: Explosion_Crystals_Green-sheet_60
+  - first:
+      213: 754068417459468816
+    second: Explosion_Crystals_Green-sheet_61
+  - first:
+      213: -2343019492547040025
+    second: Explosion_Crystals_Green-sheet_62
+  - first:
+      213: 6513303743472276897
+    second: Explosion_Crystals_Green-sheet_63
+  - first:
+      213: 9027995917022586570
+    second: Explosion_Crystals_Green-sheet_64
+  - first:
+      213: -1152113513144500112
+    second: Explosion_Crystals_Green-sheet_65
+  - first:
+      213: -2718787261563709803
+    second: Explosion_Crystals_Green-sheet_66
+  - first:
+      213: -5948690192137129511
+    second: Explosion_Crystals_Green-sheet_67
+  - first:
+      213: 2195813390284754562
+    second: Explosion_Crystals_Green-sheet_68
+  - first:
+      213: -575418259413734957
+    second: Explosion_Crystals_Green-sheet_69
+  - first:
+      213: -5774215568444453994
+    second: Explosion_Crystals_Green-sheet_70
+  - first:
+      213: -7706900706695450453
+    second: Explosion_Crystals_Green-sheet_71
+  - first:
+      213: 3974958632203188261
+    second: Explosion_Crystals_Green-sheet_72
+  - first:
+      213: 5065663590027174699
+    second: Explosion_Crystals_Green-sheet_73
+  - first:
+      213: -4272870960243029043
+    second: Explosion_Crystals_Green-sheet_74
+  - first:
+      213: 657884818370532063
+    second: Explosion_Crystals_Green-sheet_75
+  - first:
+      213: 5739060011815205896
+    second: Explosion_Crystals_Green-sheet_76
+  - first:
+      213: 5658714734142065975
+    second: Explosion_Crystals_Green-sheet_77
+  - first:
+      213: -1845152344280810954
+    second: Explosion_Crystals_Green-sheet_78
+  - first:
+      213: 3576409392672971220
+    second: Explosion_Crystals_Green-sheet_79
+  - first:
+      213: -4650907553813863862
+    second: Explosion_Crystals_Green-sheet_80
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ccba06606518360800000000000000
+      internalID: 7170106667142204480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce913e2645c7c150800000000000000
+      internalID: 5892895542650969807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6287db136fa5baa00800000000000000
+      internalID: 768808174839756838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d657c786a39b3410800000000000000
+      internalID: 1457921247836329684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d43e4caeecbe1780800000000000000
+      internalID: -8710316896008915756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993f09979cd1957a0800000000000000
+      internalID: -6388041845283163239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40c8ff98c7bcc6c0800000000000000
+      internalID: -4121717486645624755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106bbf30d0cf44cf0800000000000000
+      internalID: -268812944903784959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b0098cf19537580800000000000000
+      internalID: -8830616451299669147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55063fd915909ebf0800000000000000
+      internalID: -294694054469083051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4aa93851e0804a0800000000000000
+      internalID: -6627031366110632781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1105186038ac55cf0800000000000000
+      internalID: -264082339032641519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9376163aeb5b830800000000000000
+      internalID: 4086381845831694802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27504f4478d3be300800000000000000
+      internalID: 282387052827510130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38e62249076f92d0800000000000000
+      internalID: -3269781514985478083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c05e4dae446ea50800000000000000
+      internalID: 6549998483441781791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87187e421ab55ba10800000000000000
+      internalID: 1924545163437769080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b02f7bff3941f40800000000000000
+      internalID: 5698342155042556827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb31430b34cfc24d0800000000000000
+      internalID: -3157871871044348996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fdbeebd2bcdf460800000000000000
+      internalID: 7277195970237685518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde3e2295d523e230800000000000000
+      internalID: 3666816120820481759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1554f3c2cbb01cd0800000000000000
+      internalID: -2589363340552415969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24c231d066f105b0800000000000000
+      internalID: -5403767182180826066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54871603a88896e00800000000000000
+      internalID: 1038511316184168517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef22d6e088aec0640800000000000000
+      internalID: 5047667152453968638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42eb4586e098ca60800000000000000
+      internalID: 7694559283115713100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2ae88d037989be0800000000000000
+      internalID: -1470259042289016129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc1ba6244919b5a0800000000000000
+      internalID: -6505140406262752013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd723162516b5b80800000000000000
+      internalID: -8405017273110987298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b205a08d516cffd80800000000000000
+      internalID: -8214629398179327957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff12b7f86e80d9a0800000000000000
+      internalID: -6210307304660525065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ef29893a8869620800000000000000
+      internalID: 2780560056168676887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14323be38d3eaa00800000000000000
+      internalID: 769620223122879519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686316ca5c85a1cf0800000000000000
+      internalID: -280814420733380986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b4b682a35502300800000000000000
+      internalID: 225273689643109255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d8e9cc071eecda0800000000000000
+      internalID: -5922548585360093871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619b8de740be2ace0800000000000000
+      internalID: -1395294529990903530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabf5acc64e202da0800000000000000
+      internalID: -5971722224277259345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcb05dcae4a5c980800000000000000
+      internalID: -8519221791727502150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccb8061658b632b0800000000000000
+      internalID: -5605090006339633976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e2125fae4975b30800000000000000
+      internalID: 4276050108067425895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b728402c53428d0800000000000000
+      internalID: -2872111554939946091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea167d808814fec0800000000000000
+      internalID: -3534172867170788625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 3569
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617b0a82b82d1ef80800000000000000
+      internalID: -8078944761402050794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf1ff154fc37b6a0800000000000000
+      internalID: -6433606522630103099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11dacc833ca78680800000000000000
+      internalID: -8752838013365858018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 3818
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2b7b9f3812663a0800000000000000
+      internalID: -6672608947188813064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 3901
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271fa39ef30a00340800000000000000
+      internalID: 4828034996897509746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803fe667cb3281c00800000000000000
+      internalID: 871485820243997448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 4067
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfdb3d7c99abe950800000000000000
+      internalID: 6479458978483658713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 4150
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb7b87f77c598d00800000000000000
+      internalID: 975412464626400235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 4233
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf0b8a8d973ea320800000000000000
+      internalID: 2571053587048894411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 4316
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67707276d8596b670800000000000000
+      internalID: 8554188976790374262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96af0de8106db75d0800000000000000
+      internalID: -3063619819316118935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f805f2474a2b6b60800000000000000
+      internalID: 7740326870120728818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 4565
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6553a7c332fef33c0800000000000000
+      internalID: -4377517378163296938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a69f057cb4818a30800000000000000
+      internalID: 4215796671148168869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 4731
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3353cc9261cbfe50800000000000000
+      internalID: 6844276688000602942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 4814
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995964a197dd71680800000000000000
+      internalID: -8784309035961248359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 4897
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6a610b379e92520800000000000000
+      internalID: 2677928136533255919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ad09e4dde96af80800000000000000
+      internalID: -8095608606808810976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 5063
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a330ffa3df67a00800000000000000
+      internalID: 754068417459468816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 5146
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eceae47f2ceb7fd0800000000000000
+      internalID: -2343019492547040025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 5229
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a513e7ee37e36a50800000000000000
+      internalID: 6513303743472276897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 5312
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6eec34472e94d70800000000000000
+      internalID: 9027995917022586570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 5395
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070481c2dded200f0800000000000000
+      internalID: -1152113513144500112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 5478
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59653aee36de44ad0800000000000000
+      internalID: -2718787261563709803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 5561
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1f0daa9c1027da0800000000000000
+      internalID: -5948690192137129511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 5644
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e08f005a8197e10800000000000000
+      internalID: 2195813390284754562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 5727
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9ee5a4424b308f0800000000000000
+      internalID: -575418259413734957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 5810
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b865a988ddddfa0800000000000000
+      internalID: -5774215568444453994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 5893
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0f532e3a69b0590800000000000000
+      internalID: -7706900706695450453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528f755d0d3e92730800000000000000
+      internalID: 3974958632203188261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 6059
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b232333323adc4640800000000000000
+      internalID: 5065663590027174699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 6142
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbc1a31086b3b4c0800000000000000
+      internalID: -4272870960243029043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 6225
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd21916b1c6412900800000000000000
+      internalID: 657884818370532063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 6308
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cf4e48cac35af40800000000000000
+      internalID: 5739060011815205896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 6391
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d8ecdc11bc78e40800000000000000
+      internalID: 5658714734142065975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 6474
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ab9aa08b3b466e0800000000000000
+      internalID: -1845152344280810954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 6557
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d994add465f1a130800000000000000
+      internalID: 3576409392672971220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Crystals_Green-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 6640
+        y: 0
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a426ebba838a47fb0800000000000000
+      internalID: -4650907553813863862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
